@@ -1,0 +1,11 @@
+C:\Users\yurto\Documents\GitHub\Passaparola_Oyunu\passaparolaOyunu\passaparolaOyunu\bin\Debug\passaparolaOyunu.exe.config
+C:\Users\yurto\Documents\GitHub\Passaparola_Oyunu\passaparolaOyunu\passaparolaOyunu\bin\Debug\passaparolaOyunu.exe
+C:\Users\yurto\Documents\GitHub\Passaparola_Oyunu\passaparolaOyunu\passaparolaOyunu\bin\Debug\passaparolaOyunu.pdb
+C:\Users\yurto\Documents\GitHub\Passaparola_Oyunu\passaparolaOyunu\passaparolaOyunu\obj\Debug\passaparolaOyunu.csproj.AssemblyReference.cache
+C:\Users\yurto\Documents\GitHub\Passaparola_Oyunu\passaparolaOyunu\passaparolaOyunu\obj\Debug\passaparolaOyunu.Form1.resources
+C:\Users\yurto\Documents\GitHub\Passaparola_Oyunu\passaparolaOyunu\passaparolaOyunu\obj\Debug\passaparolaOyunu.Properties.Resources.resources
+C:\Users\yurto\Documents\GitHub\Passaparola_Oyunu\passaparolaOyunu\passaparolaOyunu\obj\Debug\passaparolaOyunu.csproj.GenerateResource.cache
+C:\Users\yurto\Documents\GitHub\Passaparola_Oyunu\passaparolaOyunu\passaparolaOyunu\obj\Debug\passaparolaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\yurto\Documents\GitHub\Passaparola_Oyunu\passaparolaOyunu\passaparolaOyunu\obj\Debug\passaparolaOyunu.exe
+C:\Users\yurto\Documents\GitHub\Passaparola_Oyunu\passaparolaOyunu\passaparolaOyunu\obj\Debug\passaparolaOyunu.pdb
+C:\Users\yurto\Documents\GitHub\Passaparola_Oyunu\passaparolaOyunu\passaparolaOyunu\obj\Debug\passaparolaOyunu.exe.config
